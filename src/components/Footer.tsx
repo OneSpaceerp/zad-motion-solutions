@@ -77,29 +77,29 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-white/80 text-sm">24/7 Emergency Line</p>
-                  <p className="text-accent font-medium">+20 xxx xxxx xxx</p>
+                  <p className="text-white/80 text-sm">Phone Number</p>
+                  <p className="text-accent font-medium">(+20) 02 3865 4079</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Mail className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-white/80 text-sm">Email Support</p>
-                  <p className="text-accent font-medium">info@zad-services.com</p>
+                  <p className="text-accent font-medium">support@zad-eg.net</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-white/80 text-sm">Service Coverage</p>
-                  <p className="text-accent font-medium">All Egypt Governorates</p>
+                  <p className="text-white/80 text-sm">Office Location</p>
+                  <p className="text-accent font-medium">Unit A14 Compass Project, Polaris Al-Zamil Industrial, 6 October</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Clock className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-white/80 text-sm">Response Time</p>
-                  <p className="text-accent font-medium">Under 48 Hours</p>
+                  <p className="text-white/80 text-sm">Office Hours</p>
+                  <p className="text-accent font-medium">Sunday – Thursday: 9:00 a.m. – 5:00 p.m.</p>
                 </div>
               </div>
             </div>

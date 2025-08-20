@@ -26,26 +26,26 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: Phone,
-      title: '24/7 Emergency Line',
-      details: '+20 xxx xxxx xxx',
+      title: 'Phone Number',
+      details: '(+20) 02 3865 4079',
       subtitle: 'Available round the clock'
     },
     {
       icon: Mail,
       title: 'Email Support',
-      details: 'info@zad-services.com',
+      details: 'support@zad-eg.net',
       subtitle: 'Response within 2 hours'
     },
     {
       icon: MapPin,
-      title: 'Service Area',
-      details: 'All Egypt Governorates',
+      title: 'Office Location',
+      details: 'Unit A14 Compass Project, Polaris Al-Zamil Industrial, 6 October',
       subtitle: '170+ projects completed'
     },
     {
       icon: Clock,
-      title: 'Response Time',
-      details: 'Under 48 Hours',
+      title: 'Office Hours',
+      details: 'Sunday – Thursday: 9:00 a.m. – 5:00 p.m.',
       subtitle: 'Guaranteed service level'
     }
   ];
