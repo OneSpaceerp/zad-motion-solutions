@@ -5,7 +5,7 @@ const Services = () => {
   const mainServices = [
     {
       title: 'Commissioning Service',
-      description: 'Professional commissioning for all Wilo pumps according to IOM procedures',
+      description: 'Professional commissioning for all pumps according to IOM procedures',
       icon: Settings,
       color: 'primary'
     },
@@ -32,7 +32,7 @@ const Services = () => {
   const detailedServices = [
     {
       title: 'Site Commissioning & Start-up',
-      description: 'Our facilities & strong Wilo brand identity helps us provide service according to IOM procedures.',
+      description: 'Our facilities and engineering expertise help us provide service according to IOM procedures.',
       image: commissioningImage
     },
     {

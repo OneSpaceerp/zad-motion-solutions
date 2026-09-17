@@ -130,7 +130,7 @@ const Tools = () => {
             <div className="space-y-4 mb-8">
               <div className="flex items-center space-x-3">
                 <div className="w-3 h-3 bg-accent rounded-full"></div>
-                <span className="text-muted-foreground">Genuine Wilo spare parts in proven quality</span>
+                <span className="text-muted-foreground">Genuine OEM spare parts in proven quality</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="w-3 h-3 bg-accent rounded-full"></div>
@@ -149,7 +149,7 @@ const Tools = () => {
             <div className="bg-secondary/10 border border-secondary/20 rounded-lg p-6">
               <h4 className="text-lg font-semibold text-secondary mb-2">Local Assembly Services</h4>
               <p className="text-muted-foreground text-sm mb-3">
-                Complete local assembly for all Wilo pumps including:
+                Complete local assembly for centrifugal pump packages including:
               </p>
               <div className="flex flex-wrap gap-2">
                 <span className="bg-secondary/20 text-secondary px-3 py-1 rounded-full text-sm">Split Case Pumps</span>

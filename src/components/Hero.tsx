@@ -28,7 +28,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-white/90 fade-in">
-            Premium quality Wilo pump services with shortest delivery time through localization
+            Premium quality electromechanical pump services with shortest delivery time through localization
           </p>
 
           {/* Service highlights */}

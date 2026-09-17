@@ -19,7 +19,7 @@ const About = () => {
             </h2>
             <div className="w-24 h-1 bg-accent mx-auto mb-6"></div>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Established in 2020 as a subsidiary of Kayan for Import, ZAD is your authorized service partner for Wilo pumps in Egypt
+              Established in 2020 as a subsidiary of Kayan for Import, ZAD provides specialized pump engineering and electromechanical services in Egypt
             </p>
           </div>
 

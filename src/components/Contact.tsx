@@ -69,7 +69,7 @@ const Contact = () => {
           </h2>
           <div className="w-24 h-1 bg-accent mx-auto mb-6"></div>
           <p className="text-xl text-white/90 max-w-3xl mx-auto">
-            Get in touch with our expert team for all your Wilo pump service needs
+            Get in touch with our expert team for all your pump and electromechanical service needs
           </p>
         </div>
 
